@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+{% block content %}
+<style>
+
+</style>
+<h1>Search Results</h1>
+
+<ul>
+  {% for country in object_list %}
+    <li>
+      {{ country.name }}
+    </li>
+  {% endfor %}
+</ul>
+{% endblock %}

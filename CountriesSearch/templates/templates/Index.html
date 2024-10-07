@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+{% block content %}
+<body>
+	<h1>HomePage</h1>
+  <form action="{% url 'results' %}" method="get">
+  <input name="q" type="text" placeholder="Search...">
+</form>
+<body>
+
+    {% for country in countries%}
+    <li> {{ country.name }} </li>
+    {% endfor %}
+</body>
+{% endblock %}

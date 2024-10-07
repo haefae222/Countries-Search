@@ -1,0 +1,219 @@
+[
+    {
+        "model": "templates.MyCountries",
+        "pk": 1,
+        "fields": {
+            "name": "Albania"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 2,
+        "fields": {
+            "name": "Andorra"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 3,
+        "fields": {
+            "name": "Australia"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 4,
+        "fields": {
+            "name": "Brazil"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 5,
+        "fields": {
+            "name": "Belgium"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 6,
+        "fields": {
+            "name": "Canada"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 7,
+        "fields": {
+            "name": "China"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 8,
+        "fields": {
+            "name": "France"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 9,
+        "fields": {
+            "name": "Germany"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 10,
+        "fields": {
+            "name": "India"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 11,
+        "fields": {
+            "name": "Indonesia"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 12,
+        "fields": {
+            "name": "Ireland"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 13,
+        "fields": {
+            "name": "Italy"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 14,
+        "fields": {
+            "name": "Japan"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 15,
+        "fields": {
+            "name": "Kenya"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 16,
+        "fields": {
+            "name": "Luxembourg"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 17,
+        "fields": {
+            "name": "Mexico"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 18,
+        "fields": {
+            "name": "New Zealand"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 19,
+        "fields": {
+            "name": "Nigeria"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 20,
+        "fields": {
+            "name": "Portugal"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 21,
+        "fields": {
+            "name": "Russia"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 22,
+        "fields": {
+            "name": "South Africa"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 23,
+        "fields": {
+            "name": "South Korea"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 24,
+        "fields": {
+            "name": "Spain"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 25,
+        "fields": {
+            "name": "Sweden"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 26,
+        "fields": {
+            "name": "Thailand"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 27,
+        "fields": {
+            "name": "Ukraine"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 28,
+        "fields": {
+            "name": "United Kingdom"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 29,
+        "fields": {
+            "name": "United States of America"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 30,
+        "fields": {
+            "name": "Vietnam"
+        }
+    },
+    {
+        "model": "templates.MyCountries",
+        "pk": 31,
+        "fields": {
+            "name": "Zambia"
+        }
+    }
+]
